@@ -1,5 +1,4 @@
 ## Analysis of the COVID-19 Association Rules
-
 The graph shows the Top 10 COVID-19 Association Rules generated using the Apriori algorithm. The horizontal axis represents lift, while the vertical axis shows the association rules discovered from the dataset.
 
 ### 1. Interpretation of the results
